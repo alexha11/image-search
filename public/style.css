@@ -74,6 +74,7 @@ h1 {
 }
 
 #idName {
-    max-width: 100%;
+    max-width: 100vh;
+    max-height: 100vh;
     border-radius: 1rem;
 }
