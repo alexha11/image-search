@@ -1,5 +1,5 @@
 # Image Search Website
-This website help you to search images of your celebrities randomly. You just need to type their names and click the button.
+This website helps you to search images of your celebrities randomly. You just need to type their names and click the button.
 
 The Image Search Website was developed using Node.js and JavaScript to manage the server, while HTML and CSS were utilized to create an aesthetically pleasing user interface.
 
@@ -8,4 +8,4 @@ The Image Search Website was developed using Node.js and JavaScript to manage th
 ![Screen Shot 2023-02-19 at 7 12 46 PM](https://user-images.githubusercontent.com/113895096/219967782-59df65c3-9d25-42a1-858b-18d3d7ccb774.png)
 
 # Download project
-Feel free to clone and check it out!!! You'll need to download some package for Node.js
+Feel free to clone and check it out!!! You'll need to download some packages for Node.js
